@@ -268,8 +268,8 @@ Composition API، متغیرهای reactive را مستقیماً در اسکو�
 
 <div class="vt-box-container next-steps">
   <a class="vt-box" href="/tutorial/">
-    <p class="next-steps-link">امتحان کردن آموزش</p>
-    <p class="next-steps-caption">برای کسانی که ترجیح می‌دهند چیزها را به صورت عملی یاد بگیرند.</p>
+    <p class="next-steps-link">تست کردن آموزش</p>
+    <p class="next-steps-caption">برای کسانی که ترجیح می‌دهند مطالب را به صورت عملی یاد بگیرند.</p>
   </a>
   <a class="vt-box" href="/guide/quick-start.html">
     <p class="next-steps-link">خواندن راهنما</p>
@@ -277,6 +277,6 @@ Composition API، متغیرهای reactive را مستقیماً در اسکو�
   </a>
   <a class="vt-box" href="/examples/">
     <p class="next-steps-link">بررسی مثال‌ها</p>
-    <p class="next-steps-caption">مثال‌هایی از ویژگی‌های اصلی و وظایف رایج رابط کاربری را کاوش کنید.</p>
+    <p class="next-steps-caption">مثال‌هایی از ویژگی‌های اصلی و وظایف رایج رابط کاربری را بررسی کنید.</p>
   </a>
 </div>
